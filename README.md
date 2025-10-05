@@ -5,6 +5,7 @@ Cloned [FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotCont
 XML files are used to configure the robot hardware. These are typically manually configured using the driver hub using the configuration GUI.
 To track configurations for multiple robots/development cycles. We will save the zip file using REV Hardware Client. See Screenshot.
 ![screenshot1](screenshots/config_backup.PNG)
+TODO: In the future, we will probably create a flow to track the actual XML, that way we can create friendly text diffs().
 
 # Screenshots
 ![screenshot1](screenshots/screenshot1.PNG)
