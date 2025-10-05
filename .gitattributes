@@ -22,3 +22,4 @@
 *.aab binary
 *.so binary
 *.dex binary
+*.zip binary
